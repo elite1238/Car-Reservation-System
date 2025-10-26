@@ -20,5 +20,4 @@ Insert the Admin information for login directly into the database.
 You can add Drivers in from Admin login.
 You can create client with the register option.
 
-The project is kinda of messy since it is my first MERN project and I might have done some incorrect pratices.
-Also more features can be added to the project and it can be optimized too.
+
